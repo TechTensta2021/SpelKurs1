@@ -1,12 +1,11 @@
 ﻿<Properties StartupConfiguration="{37F2EBF1-1A85-E6DC-94EF-98D038A7C801}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/kubFlyga.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Vinna.cs">
     <Files>
       <File FileName="Assets/Scripts/Poang.cs" Line="19" Column="69" />
       <File FileName="Assets/Scripts/StartExitButtons.cs" />
       <File FileName="Assets/Scripts/SpelareCollisions.cs" />
-      <File FileName="Assets/Scripts/Vinna.cs" Line="13" Column="48" />
-      <File FileName="Assets/Scripts/SpelareRorelse.cs" Line="19" Column="10" />
-      <File FileName="Assets/Scripts/kubFlyga.cs" Line="22" Column="6" />
+      <File FileName="Assets/Scripts/Vinna.cs" Line="13" Column="9" />
+      <File FileName="Assets/Scripts/SpelareRorelse.cs" Line="25" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,7 +13,7 @@
           <Node name="SpelKurs1" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="kubFlyga.cs" selected="True" />
+                <Node name="Vinna.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -24,7 +23,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2eb9924c-de20-461c-93f6-9fcf7e61e99c" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0d1823b1-8b3a-4fa3-8292-b999e39d11d4" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

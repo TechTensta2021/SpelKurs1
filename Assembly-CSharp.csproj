@@ -69,7 +69,6 @@
     <Compile Include="Assets\Scripts\SpelareRorelse.cs" />
     <Compile Include="Assets\Scripts\StartExitButtons.cs" />
     <Compile Include="Assets\Scripts\Vinna.cs" />
-    <Compile Include="Assets\Scripts\kubFlyga.cs" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2019.4.12f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
